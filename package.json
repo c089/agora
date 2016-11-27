@@ -98,6 +98,7 @@
   "devDependencies": {
     "chado": "0.2.5",
     "flow-bin": "^0.36.0",
+    "flow-typed": "^2.0.0",
     "grunt": "1.0.1",
     "grunt-cli": "1.2.0",
     "grunt-contrib-clean": "1.0.0",
